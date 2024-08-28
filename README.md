@@ -31,7 +31,7 @@ Se você ainda não configurou o Git em seu sistema, siga estas etapas para prep
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@exemplo.com"
 ```
-> Substitua o que está entre parênteses pelas suas informações.
+> Substitua o que está entre aspas pelas suas informações.
 
 > Usar --global configura as informações para todos os repositórios Git no seu sistema. É útil se você deseja usar o mesmo nome e e-mail em todos os projetos
 
